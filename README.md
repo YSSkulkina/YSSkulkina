@@ -55,4 +55,4 @@ Java • Spring Boot • Hibernate • PostgreSQL • REST API • Maven • Git
 
 💼 HH.ru
 
-https://krasnodar.hh.ru/resume/139a3764ff0fab266a0039ed1f65594f4a4531
+https://hh.ru/resume/139a3764ff0fab266a0039ed1f65594f4a4531
