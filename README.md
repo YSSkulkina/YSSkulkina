@@ -46,6 +46,7 @@ Java • Spring Boot • Hibernate • PostgreSQL • REST API • Maven • Git
 - Online Shop
 - URL Shortener
 - Task Manager
+- Order Notification Demo
 
 ---
 
