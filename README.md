@@ -42,11 +42,9 @@ Java • Spring Boot • Hibernate • PostgreSQL • REST API • Maven • Git
 
 ## 📂 Featured Projects
 
-- CRM Backend
-- Online Shop
-- URL Shortener
-- Task Manager API
 - Order Notification Demo
+- Task Manager API
+- JavaFX Chat
 
 ---
 
