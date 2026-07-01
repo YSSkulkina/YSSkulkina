@@ -42,6 +42,7 @@ Java • Spring Boot • Hibernate • PostgreSQL • REST API • Maven • Git
 
 ## 📂 Featured Projects
 
+- URL Shortener
 - Order Notification Demo
 - Task Manager API
 - JavaFX Chat
